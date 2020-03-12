@@ -7,7 +7,8 @@
 .infoCardContainer--vintage {
     background-color: #EDCFD1;
 }
-.infoCardContainer--vintage .infoCardHeadline {
+
+.infoCardHeadline {
     color: #000;
     font-weight: 700;
 }
