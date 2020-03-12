@@ -1,0 +1,21 @@
+.infoCardContainer {
+    max-width: 1260;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.infoCardContainer--vintage {
+    background-color: #EDCFD1;
+}
+.infoCardContainer--vintage .infoCardHeadline {
+    color: #000;
+    font-weight: 700;
+}
+
+.infoCardContainer--vintage .infoCardHeadline:hover {
+    background-color: #fff;
+}
+
+.infoCardContainer--metal {
+    background-color: #e1e1e1;
+}
